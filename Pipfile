@@ -9,6 +9,7 @@ markdown = "*"
 faker = "*"
 django-pure-pagination = "*"
 django-haystack = "*"
+gunicorn = "*"
 
 [dev-packages]
 
