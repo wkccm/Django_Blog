@@ -15,5 +15,5 @@ services:
       - database_local:/app/database
       - .:/app
     ports:
-      - "8000:8000"
+      - "8001:8001"
     command: /start.sh
